@@ -19,11 +19,17 @@ This project leverages **Keras** and **TensorFlow** to build a deep learning mod
 ## Technologies Used
 
 -Python
+
 -Jupyter Notebook
+
 -Pandas & NumPy for data manipulation
+
 -Matplotlib & Seaborn for visualization
+
 -TensorFlow & Keras for model development
+
 -Scikit-Learn for evaluation and data splitting
+
 
 ## Setup
 1. **Clone the Repository:**
